@@ -208,6 +208,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
+
 # Markdown Processing
 kramdown:
   input: GFM
