@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "함수의 극한"
 categories: 미적분학
 ---
 
