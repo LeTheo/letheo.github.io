@@ -2,15 +2,16 @@
 layout: post
 title:  "함수의 극한"
 categories: 미적분학
+toc: true
 ---
 
 # Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
-![picture 1](../images/32194a07ab2bbc35a02d2ae313dc98a95ae9a589d45843071ee323b8f8b286f8.jpeg)
+![picture 1](/images/32194a07ab2bbc35a02d2ae313dc98a95ae9a589d45843071ee323b8f8b286f8.jpeg)
 
-![picture 4](../images/4dab816a7a36576f5f7e8bdb83449234551c34760b05af9cdb4fa023deb04a29.jpeg)  
+![picture 4](/images/4dab816a7a36576f5f7e8bdb83449234551c34760b05af9cdb4fa023deb04a29.jpeg)  
 
 **1. 함수의 극한이란 무엇일까요? (직관적 정의)**
 
